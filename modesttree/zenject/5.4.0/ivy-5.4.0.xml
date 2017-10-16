@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0">
-  <info organisation="modesttree" module="zenject" revision="5.4.0" status="integration" publication="20171016233046"/>
+  <info organisation="modesttree" module="zenject" revision="5.4.0" status="integration" publication="20171016233427"/>
   <configurations/>
   <publications>
     <artifact name="zenject" type="zip" ext="zip"/>
