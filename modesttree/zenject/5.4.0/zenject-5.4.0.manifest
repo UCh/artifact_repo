@@ -1,0 +1,1001 @@
+{
+  "files": {
+    "73e64a3716d96cc429847a36a154d506": {
+      "md5": "c8b8cbab9574b073e4a2645e3fb35910",
+      "path": "Assets/Plugins/Zenject/Source/Signals/Signal0.cs"
+    },
+    "b89eb48404c43274599e0ced34e7a83a": {
+      "md5": "6c3a2a441da800db8d9d985d5f8c01c6",
+      "path": "Assets/Plugins/Zenject/Source/Providers/FactoryProvider.cs"
+    },
+    "8df86e6d96c60e2498c642be36ce1c33": {
+      "md5": "050f6f482f0e2dc1b3ea081e4675c12c",
+      "path": "Assets/Plugins/Zenject/Source/Factories/Factory.cs"
+    },
+    "89715ad69b973a14899afa2c6730b30b": {
+      "md5": "8a61bd264a773ae253ea283672e177d3",
+      "path": "Assets/Plugins/Zenject/Source/Install/Contexts/SceneContext.cs"
+    },
+    "51305c7ccfc8a9f4390aeefc54674cde": {
+      "md5": "a6e2584ca02f06152ebce32831f1bcdc",
+      "path": "Assets/Plugins/Zenject/Source/Editor/Testing/ZenjectUnitTestFixture.cs"
+    },
+    "f1157303ef95f2448a355067327cb83a": {
+      "md5": "f700bf5df3b7bb3fcfb0372f6f041031",
+      "path": "Assets/Plugins/Zenject/Source/Factories/FactoryProviderWrapper.cs"
+    },
+    "087e085a2e531234795cfc8597003585": {
+      "md5": "4b891492c1a5dba7e9c2c4ba0ecd16c6",
+      "path": "Assets/Plugins/Zenject/Source/Usage/ITickable.cs"
+    },
+    "10487121a4674d74884ee65e70762e35": {
+      "md5": "c4c5d2fccaf91b7ed05f151e8b762910",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Finalizers/PrefabBindingFinalizer.cs"
+    },
+    "e6a49432e004bd8409d3ddea6a45a3f8": {
+      "md5": "99b19e01032b457e4cfe2612daa635c1",
+      "path": "Assets/Plugins/Zenject/Source/Providers/ComponentProviders/GetFromPrefabComponentProvider.cs"
+    },
+    "e4bba6f33be4ce04fa1f1f554019074a": {
+      "md5": "66eeda32a6f18446ce578103c972a07a",
+      "path": "Assets/Plugins/Zenject/Source/Providers/Singleton/Standard/StandardSingletonProviderCreator.cs"
+    },
+    "64db75da3b9de56409556af4513979c2": {
+      "md5": "41665448bfe7fb3da6a4099825a9ddf1",
+      "path": "Assets/Plugins/Zenject/Source/Providers/SubContainerCreators/SubContainerCreatorCached.cs"
+    },
+    "f918d73bbc00bc44090b2ca68472f2e7": {
+      "md5": "897edae33240b7f88a6c267b838a9384",
+      "path": "Assets/Plugins/Zenject/Source/Providers/IFactoryResolveProvider.cs"
+    },
+    "fee2c810a2ee8d2489a6a29177b48d82": {
+      "md5": "73180ca5e53cbb216874f63d357d105e",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryToChoiceBinder/FactoryToChoiceBinder4.cs"
+    },
+    "510bfbdebf6be804b92145cf677898b9": {
+      "md5": "e096e3201f21c6c040d585fd59fabdbc",
+      "path": "Assets/Plugins/Zenject/Source/Runtime/AnimatorInterfaces/IAnimatorIkHandler.cs"
+    },
+    "3d9014e328d4ff04682edfaaa5bdad36": {
+      "md5": "7ab3cb759b2c42e8a165f3d409b5264b",
+      "path": "Assets/Plugins/Zenject/Source/Binding/BindingUtil.cs"
+    },
+    "b21bac0f5047e384ca08f5f15782b3ee": {
+      "md5": "b4c578f8490fb36aea764170808f1d51",
+      "path": "Assets/Plugins/Zenject/Source/Signals/SignalManager.cs"
+    },
+    "35df94e99ddd0c04c86cf0bcefa85ad8": {
+      "md5": "a4dbb61b8c2f033d8e505f6a39ee241b",
+      "path": "Assets/Plugins/Zenject/Source/Providers/ResolveProvider.cs"
+    },
+    "374b2cd725ea28a46a6377959bb73c9c": {
+      "md5": "ec0eed6e0e53d4f0bc74f1dd132e2464",
+      "path": "Assets/Plugins/Zenject/Source/Runtime/Kernels/ProjectKernel.cs"
+    },
+    "58c27840cbeb2fa4695b09d536809bb2": {
+      "md5": "1b8dd486ee239c697830e490273872c1",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/NonLazyBinder.cs"
+    },
+    "305d88c8b2af3f2479cb45ffb6f2923c": {
+      "md5": "cc2c507b098d7386eeee5a48981b1b45",
+      "path": "Assets/Plugins/Zenject/Source/Factories/Pooling/MemoryPool.cs"
+    },
+    "3b63b8088376c9a499e7f506a237392d": {
+      "md5": "8494db5831ba913effb64198d3a2de4d",
+      "path": "Assets/Plugins/Zenject/Source/Providers/PrefabProviders/IPrefabProvider.cs"
+    },
+    "669e8af5b17774d45acea73d348e6dca": {
+      "md5": "7f39891551c0e6cd0d9437d73f8b876b",
+      "path": "Assets/Plugins/Zenject/Source/Providers/ComponentProviders/AddToGameObjectComponentProviders/AddToExistingGameObjectComponentProvider.cs"
+    },
+    "8a25347f1a9a6b544b4ef8b643824a6f": {
+      "md5": "6a9801edace2e416f780b2db149b7453",
+      "path": "Assets/Plugins/Zenject/Source/Runtime/Kernels/Kernel.cs"
+    },
+    "097ddf2608210fe44a9d215a1721d857": {
+      "md5": "9911e5ab4270bd587a1b602ea2cc1b29",
+      "path": "Assets/Plugins/Zenject/Source/Util/ZenjectSceneLoader.cs"
+    },
+    "8e42d79e9a3ccae46b54d9b173778a17": {
+      "md5": "dc4c76fb3cf55417f21f80ab4e1adf26",
+      "path": "Assets/Plugins/Zenject/Source/Runtime/AnimatorInterfaces/IAnimatorMoveHandler.cs"
+    },
+    "63061a02402fecc4b8f8341635398c45": {
+      "md5": "085492485dcbe35acdfbd87a05d753e1",
+      "path": "Assets/Plugins/Zenject/Source/Providers/UntypedFactoryProvider.cs"
+    },
+    "88f07b27e239881478d875c565007777": {
+      "md5": "2ba62a3fe434fb044fab04bf4964cf3a",
+      "path": "Assets/Plugins/Zenject/Source/Usage/InjectSources.cs"
+    },
+    "e65744c901e080744aada3988bfdf11c": {
+      "md5": "8bfbba4d4bbcf593110960a1c5d764a9",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryToChoiceIdBinder/FactoryToChoiceIdBinder4.cs"
+    },
+    "de17d24691e2bfd458a9d10cb1d49098": {
+      "md5": "8be0022fd0bf883dd9b601bc8184e599",
+      "path": "Assets/Plugins/Zenject/Source/Internal/PreserveAttribute.cs"
+    },
+    "37e1bc8789d95ed408fbeb70c376d056": {
+      "md5": "fe98438b2fc96ee93c22ceee25453e33",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/ScopeArgNonLazyBinder.cs"
+    },
+    "ac0b851e746b8b84a9db1baf194e13f7": {
+      "md5": "8112585b33c78f9b0479bf87e6936619",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Finalizers/SubContainerMethodBindingFinalizer.cs"
+    },
+    "08eca9f7688a0a24685b89133b020c8e": {
+      "md5": "546cdef664c21071ba7ae827162a4f96",
+      "path": "Assets/Plugins/Zenject/Source/Install/Contexts/GameObjectContext.cs"
+    },
+    "6b41a20eb0faa1041bf6aa0bfcc76064": {
+      "md5": "88d95e781452de15a2ac7e99a7234f71",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Finalizers/NullBindingFinalizer.cs"
+    },
+    "5f4bb37c4e2a5bf44865ed1ab3bef21e": {
+      "md5": "88ee853669efeec98197951108d118cd",
+      "path": "Assets/Plugins/Zenject/Source/Providers/SubContainerCreators/SubContainerCreatorByMethod.cs"
+    },
+    "e0464fe2b382d1d4babf13bf0c3fa044": {
+      "md5": "d39d4c600611959c0f5515a3818b87c4",
+      "path": "Assets/Plugins/Zenject/Source/Testing/ZenjectIntegrationTestFixture.cs"
+    },
+    "b0873c763efd1e94fb3a56ff80843cf1": {
+      "md5": "6dbd40aaf4804834d3adfc400bdd8091",
+      "path": "Assets/Plugins/Zenject/Source/Editor/Editors/GameObjectContextEditor.cs"
+    },
+    "1bfe8c7cab3320b4a818fbb97098fb11": {
+      "md5": "c7d6f9dc8e1f7730afbd40c5d99cf892",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/FromBinders/FromBinder.cs"
+    },
+    "bddc7ee81ed8fd84cbf60eebf5cb3e41": {
+      "md5": "9fed0897ea3e39b773c3b5f7b5f38ee2",
+      "path": "Assets/Plugins/Zenject/Source/Providers/MethodProviderUntyped.cs"
+    },
+    "41eb30ac64078db4090dd136ccaf1fbe": {
+      "md5": "2ffd0766eef6e5546ac01875244a8122",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/Factory/Pooling/MemoryPoolBindingFinalizer.cs"
+    },
+    "75406829aaca6154491302d85b26270a": {
+      "md5": "25965dcdbe05a6e1783d7eb6db402eb7",
+      "path": "Assets/Plugins/Zenject/LICENSE.txt"
+    },
+    "647e28e377c50e549b443131ce6163fc": {
+      "md5": "f87d88837d3e0b94ed5d25860b59e45d",
+      "path": "Assets/Plugins/Zenject/Source/Binding/BindInfo/BindInfo.cs"
+    },
+    "1127d585dc0aa7a45a61d1e0ec7e5fe2": {
+      "md5": "630961dfbca4c529fec716587d9e9fba",
+      "path": "Assets/Plugins/Zenject/Source/Signals/SignalFromBinder.cs"
+    },
+    "c2426e868a6366d4a9402ae5d432108f": {
+      "md5": "28ecf23699d68ec7faf6e671d667e4f4",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/ScopeArgConditionCopyNonLazyBinder.cs"
+    },
+    "abc6818244c164c45be7985e17c29868": {
+      "md5": "42ac3762cdc200bcde3376ce155cc95e",
+      "path": "Assets/Plugins/Zenject/Source/Factories/GameObjectFactory.cs"
+    },
+    "fdb97e2862ca0a24e8f87c081ea05727": {
+      "md5": "c85a4f4871e878a86d1781fbb6cdc19d",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryFromBinder/SubContainerBinder/FactorySubContainerBinder3.cs"
+    },
+    "59bf76d7e1faf084fb84a113e594c31a": {
+      "md5": "7a88d14f12edc60a7c3771d0c84e81d8",
+      "path": "Assets/Plugins/Zenject/Source/Providers/Singleton/SingletonMarkRegistry.cs"
+    },
+    "fdda9214625b4d84e87e6e15e9c443cf": {
+      "md5": "2c0fe3d6bd35d826eac882cae4ceb1e7",
+      "path": "Assets/Plugins/Zenject/Source/Usage/InjectAttributeBase.cs"
+    },
+    "8e5838132ef34e14ea93d2e3b30b7140": {
+      "md5": "290fa0b036b36b423caa710b2aa050e9",
+      "path": "Assets/Plugins/Zenject/Source/Runtime/InitializableManager.cs"
+    },
+    "3560183e1df5b99428bd2c950055a7b7": {
+      "md5": "8329412fd68f05835f30baa6f07c614e",
+      "path": "Assets/Plugins/Zenject/Source/Util/PoolCleanupChecker.cs"
+    },
+    "fcb2e11e0ed56de48b0ba9b5e3ae10c9": {
+      "md5": "06b3a127e4cf46f868ac360b81917a49",
+      "path": "Assets/Plugins/Zenject/Source/Editor/EditorStaticInstaller.cs"
+    },
+    "73ed4b67b639aaf4c94f61339a6ff413": {
+      "md5": "5b7d9649c7afaf0117a0666ab5f329d2",
+      "path": "Assets/Plugins/Zenject/Source/Factories/KeyedFactory.cs"
+    },
+    "e6836adf19243a045ba39e67ade6dd59": {
+      "md5": "174a3fe3c00788d01042a46434c67753",
+      "path": "Assets/Plugins/Zenject/Source/Providers/ComponentProviders/InstantiateOnPrefabComponentProvider.cs"
+    },
+    "69b6a79dbdbe86d459edbc15d7732d8d": {
+      "md5": "94da98b34429bbdbb14c15b5969568b4",
+      "path": "Assets/Plugins/Zenject/Source/Main/IInstantiator.cs"
+    },
+    "a3dbdd63eab270c4d99190b197aff23c": {
+      "md5": "c2d3255f7e5edd83cd5562094b738ef7",
+      "path": "Assets/Plugins/Zenject/Source/Signals/SignalHandlerBinder.cs"
+    },
+    "a005e8d2a91ae2647927c047c663d046": {
+      "md5": "1d1a9b81eaa407a57dd03b34dd32635c",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryToChoiceIdBinder/FactoryToChoiceIdBinder1.cs"
+    },
+    "e182a0b67fa936e40bebc0dc2f28743a": {
+      "md5": "f476d33f697078a612685394627d4cd8",
+      "path": "Assets/Plugins/Zenject/Source/Util/ActionInstaller.cs"
+    },
+    "97c39aeade32bd54c8754bc9d6da25ab": {
+      "md5": "7818c06bc357fb55efab3a29af7c207c",
+      "path": "Assets/Plugins/Zenject/Source/Install/ScriptableObjectInstallerBase.cs"
+    },
+    "57ab0b3d05763f14fb530d07a5acd481": {
+      "md5": "9dda1dafabd7550e8af35bd46bd79ddb",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryFromBinder/FactoryFromBinder1.cs"
+    },
+    "e562a021e16d4a2418f6c47de105c64e": {
+      "md5": "9f5542a7d4b1e990c97db145ff287ff1",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryFromBinder/SubContainerBinder/FactorySubContainerBinder5.cs"
+    },
+    "371e1c0b9a8ff664f993cbe2a547eeae": {
+      "md5": "31c81700848056a9f67f09ee642621a6",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/IdBinder.cs"
+    },
+    "93d53e91e1ef3484a99feb7aa58f2b63": {
+      "md5": "6890b651535ee54fb87cc2143a72b153",
+      "path": "Assets/Plugins/Zenject/Source/Install/MonoInstallerBase.cs"
+    },
+    "2a3880a3063c56747b32995b66a8a1ca": {
+      "md5": "a153822f51652d304175bc900411c787",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/Factory/PlaceholderFactoryBindingFinalizer.cs"
+    },
+    "123cf5950053d794e998941b68ea06f7": {
+      "md5": "66f26f915655464abd0a20feb0b1a6a6",
+      "path": "Assets/Plugins/Zenject/Source/Internal/ReflectionUtil.cs"
+    },
+    "98bc5c26f28a00544afe116adee67cc2": {
+      "md5": "eebbb33d7a826e6a2d5c1e89699e1d6e",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryToChoiceBinder/FactoryToChoiceBinder0.cs"
+    },
+    "3ec17db36cb69f84792d5dd931297f1e": {
+      "md5": "3f53e7d5de3d8d91a1fbad70d1efd015",
+      "path": "Assets/Plugins/Zenject/Source/Signals/SignalBase.cs"
+    },
+    "60bbf1e064ae9674185f3f301957c914": {
+      "md5": "7ce27231e2ff37e35b4ff02e476cc705",
+      "path": "Assets/Plugins/Zenject/Source/Util/ZenjectException.cs"
+    },
+    "5ca4a43d84d9d554080d313280363783": {
+      "md5": "3b5f684bfda2fbdf96377332b248a895",
+      "path": "Assets/Plugins/Zenject/Source/Runtime/GuiRenderableManager.cs"
+    },
+    "622a24d4c6769414495ea1786bfee872": {
+      "md5": "25d0c38fc587d93948a0f47e17b2b396",
+      "path": "Assets/Plugins/Zenject/Source/Internal/Log.cs"
+    },
+    "ac81a93bd20b50145a8eedc81bdf60c6": {
+      "md5": "fb5934123ab0b11eeb24f74d08aa2eca",
+      "path": "Assets/Plugins/Zenject/Source/Providers/Singleton/Standard/StandardSingletonDeclaration.cs"
+    },
+    "94cdc08df4f84584a86835bfd7971f88": {
+      "md5": "c5682f233246cf046d094987f9cd610e",
+      "path": "Assets/Plugins/Zenject/Source/Usage/ILateDisposable.cs"
+    },
+    "de4283f91e0232a4897afd2a0af141bc": {
+      "md5": "65529bcd402fc70757b3d881c45c7b25",
+      "path": "Assets/Plugins/Zenject/Source/Main/DiContainer.cs"
+    },
+    "4d1fcd1593b05194a82073206057613e": {
+      "md5": "70bd2fdd45f3190e47e526cf726736dc",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/SubContainerBinder.cs"
+    },
+    "95b7c7be81364a740b952460f5a07bbf": {
+      "md5": "3a9b3478e0cb06d4db506791c26e67aa",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/Factory/Pooling/MemoryPoolExpandBinder.cs"
+    },
+    "f798e3a2f0079b840804c0516d265f03": {
+      "md5": "19f7957536724e09896997b4ccd5ad03",
+      "path": "Assets/Plugins/Zenject/Source/Editor/ZenUnityEditorUtil.cs"
+    },
+    "d569147915c61b64f9841ca4948f7d3f": {
+      "md5": "978c602236954b380595003f85bf5928",
+      "path": "Assets/Plugins/Zenject/Source/Providers/SubContainerDependencyProvider.cs"
+    },
+    "3c12d5eb6ac4cc8449986d020ef27e4f": {
+      "md5": "95333851d62bcdf527575a94cfbff274",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryFromBinder/SubContainerBinder/FactorySubContainerBinder0.cs"
+    },
+    "0ebfddbd9452a9c4cb6c9dfe7a25ea53": {
+      "md5": "ebd49d66e3c74ff436f1e3f37533450c",
+      "path": "Assets/Plugins/Zenject/Source/Injection/InjectUtil.cs"
+    },
+    "7dfc3341d0446554996b2969abf2d1ff": {
+      "md5": "de05e18bcf1497feb23f4a1295d3ecf4",
+      "path": "Assets/Plugins/Zenject/Source/Providers/PrefabCreators/PrefabInstantiator.cs"
+    },
+    "fd0f7feaafd2cc44da895162de285da7": {
+      "md5": "444dfeb8b130e98354e7cf8b5ce06da4",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryFromBinder/FactoryFromBinder0.cs"
+    },
+    "2377e3000d1616e4d8cb29c183f216b4": {
+      "md5": "fd7cc84a3f3fb80c63f649c44659d6c3",
+      "path": "Assets/Plugins/Zenject/Source/Providers/IProviderExtensions.cs"
+    },
+    "97eaa55248b4c824a887df4db7cf888d": {
+      "md5": "d5014fde3c76dcb01ec90c8ff000fd15",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/FromBinders/FromBinderGeneric.cs"
+    },
+    "eee2b774c35c53641b09b0c1e9620e03": {
+      "md5": "7e071971bfc6538022032ed9bed0f189",
+      "path": "Assets/Plugins/Zenject/Source/Providers/MethodProviderSimple.cs"
+    },
+    "35eb5390480b34a40ba14ad67adf134d": {
+      "md5": "9d4fd269df492863aac2a9232f4856ab",
+      "path": "Assets/Plugins/Zenject/Source/Usage/InjectOptionalAttribute.cs"
+    },
+    "743eef94d86c79e4189b311a7c7528ce": {
+      "md5": "3d007c0aacffb04fb9365b45898bdf91",
+      "path": "Assets/Plugins/Zenject/Source/Install/Installer.cs"
+    },
+    "b0f061434819b334289a066ab685ab37": {
+      "md5": "3576bd47652f0920278a583ed7ef9f70",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryFromBinder/SubContainerBinder/FactorySubContainerBinder4.cs"
+    },
+    "a3c968adce0a9a24e949dc4eedb496e8": {
+      "md5": "740aecc69fd8abe3504f30b91e1a928c",
+      "path": "Assets/Plugins/Zenject/Source/Internal/ValuePair.cs"
+    },
+    "da5f4ad06d31b2548aebd855f3d994bc": {
+      "md5": "8e0e3c505881bcdce54f221b1c493975",
+      "path": "Assets/Plugins/Zenject/Source/Providers/Singleton/SubContainer/SubContainerSingletonProviderCreatorByInstaller.cs"
+    },
+    "90c38935bf491fa40a5ff8eee550a7d1": {
+      "md5": "674809266b07771cf9a1f8307d87503d",
+      "path": "Assets/Plugins/Zenject/Source/Injection/Lazy.cs"
+    },
+    "68fac2f8aa1edec4b9ef45794638a59c": {
+      "md5": "e6ab17b478c006a488831c1833362ef8",
+      "path": "Assets/Plugins/Zenject/Source/Internal/LinqExtensions.cs"
+    },
+    "b5ad40b612e67574aad508d053e6965b": {
+      "md5": "02f0a29279df747ab044a3f3747c3fa9",
+      "path": "Assets/Plugins/Zenject/Source/Editor/Editors/ProjectContextEditor.cs"
+    },
+    "53f151c86cd3c4c46ada71b737004d36": {
+      "md5": "d89b2e16be766d80cd220b44eb33f1cb",
+      "path": "Assets/Plugins/Zenject/Source/Providers/SubContainerCreators/SubContainerCreatorByNewPrefabDynamicContext.cs"
+    },
+    "34ee2459debfb734d968c54ced01b9af": {
+      "md5": "8ce941e8782eca7ed035affb8633e066",
+      "path": "Assets/Plugins/Zenject/Source/Runtime/AnimatorInterfaces/AnimatorIkHandlerManager.cs"
+    },
+    "d932bdf1cc240394a94c9fd81dfa9218": {
+      "md5": "c80b3f9abd83aa39de37c9469b39097f",
+      "path": "Assets/Plugins/Zenject/Source/Providers/SubContainerCreators/SubContainerCreatorByInstaller.cs"
+    },
+    "eb5886f51fc492043bf8d0cc8f4daa2e": {
+      "md5": "6eb40e24192e067cce6f4db9a97ea2e8",
+      "path": "Assets/Plugins/Zenject/Source/Providers/MethodProviderWithContainer.cs"
+    },
+    "262b71f3d11b83243b75c08c0bad81a4": {
+      "md5": "8c5649dd45d5397c0c19f90dae854470",
+      "path": "Assets/Plugins/Zenject/Source/Providers/Singleton/SubContainer/SubContainerSingletonProviderCreatorByMethod.cs"
+    },
+    "a9d8033e0b576ff4e99c150856bcf048": {
+      "md5": "7ace547b91c521c2708164f5eac9f2bf",
+      "path": "Assets/Plugins/Zenject/Source/Usage/IInitializable.cs"
+    },
+    "a638543bf618ed94fb418f48d9ea9329": {
+      "md5": "43d709c4684b9d68c1bb6491eb359cc3",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/ConditionCopyNonLazyBinder.cs"
+    },
+    "0a2be2aea78c55945946b215a9fccfb2": {
+      "md5": "455617e3fc6a9eee1aa8187c541cf9b2",
+      "path": "Assets/Plugins/Zenject/Source/Usage/InjectLocalAttribute.cs"
+    },
+    "cf53ad544fd972d4eb4716fb02fb5e9e": {
+      "md5": "65d57e1d948fe174b407f96eaf524447",
+      "path": "Assets/Plugins/Zenject/Source/Internal/Func.cs"
+    },
+    "8645273165cb7f54290d6eaa1e10ab37": {
+      "md5": "276e33d9a18cb89980c37c2229e0292f",
+      "path": "Assets/Plugins/Zenject/Source/Zenject.csproj"
+    },
+    "a71cc77bd306cca459126294c63080b1": {
+      "md5": "ffc1b6d04fa5cf23764fed626728b066",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryToChoiceBinder/FactoryToChoiceBinder3.cs"
+    },
+    "ee5cb643a9ee24c4fa00e62afc9ef599": {
+      "md5": "4fe3aebe1edb212996b512eeffd90999",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Finalizers/ProviderBindingFinalizer.cs"
+    },
+    "13e9b26d23f6422cb282cc27631fc9e2": {
+      "md5": "44a3b01e862b597725c2360461687893",
+      "path": "Assets/Plugins/Zenject/Source/Install/Contexts/RunnableContext.cs"
+    },
+    "665a56f53857092408155478e576cfd0": {
+      "md5": "62739e7a132a2f140807745826b17389",
+      "path": "Assets/Plugins/Zenject/Source/Factories/PlaceholderFactory.cs"
+    },
+    "388c17c735861d145903203b31cb190d": {
+      "md5": "86da8ce81d8de5e028e6fd5fa36be7ea",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryToChoiceBinder/FactoryToChoiceBinder1.cs"
+    },
+    "018820e0bcd9a4049a305127c0cf1407": {
+      "md5": "1d30bfb4bf94626d464d73e7fdb9784a",
+      "path": "Assets/Plugins/Zenject/Source/Util/ValidationUtil.cs"
+    },
+    "5d2a7156fffca9b439f7734d94ccf336": {
+      "md5": "65fe32beeef3cb5f0442a0aa15bc2ab4",
+      "path": "Assets/Plugins/Zenject/Source/Validation/IValidatable.cs"
+    },
+    "74403915c364af945bfc6ff54d7e5bb6": {
+      "md5": "e42e9a8ae5b8c4e34eb7ef9f5be0c3db",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/ScopeConditionCopyNonLazyBinder.cs"
+    },
+    "2b708f7f76ea5574e9a39b60cc5a8238": {
+      "md5": "260719ba8d0d0986f2512a71a22252ad",
+      "path": "Assets/Plugins/Zenject/Source/Binding/BindInfo/GameObjectCreationParameters.cs"
+    },
+    "d0eff25a90fc7a4479dbb9a1f74dddc2": {
+      "md5": "7f39f262522b6d2a17b353e24cb73221",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/ArgConditionCopyNonLazyBinder.cs"
+    },
+    "23155ecdf203bf24480fd49763b73677": {
+      "md5": "747a8abe8e89377ce93e65ca80f178c7",
+      "path": "Assets/Plugins/Zenject/Source/Editor/Editors/ContextEditor.cs"
+    },
+    "bddef235f3a32bf4088ec6b147030929": {
+      "md5": "e024cc6184f4b52d75ee036dabe602bf",
+      "path": "Assets/Plugins/Zenject/Source/Injection/InjectableInfo.cs"
+    },
+    "9b44c01a03e53274881e3d868ecea3aa": {
+      "md5": "0d817bad9e650af2063bd44dac729aa4",
+      "path": "Assets/Plugins/Zenject/Source/Providers/Singleton/SingletonProviderCreator.cs"
+    },
+    "f1e908965ce63ab40b271724cb5490aa": {
+      "md5": "7c78f7f819c379edf5ad959eebab955b",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/Conventions/ConventionBindInfo.cs"
+    },
+    "da4e9bf39c1ac464d84d2f743a25f8d1": {
+      "md5": "3e6e75a4f191c171dcd1cf5b999a3f93",
+      "path": "Assets/Plugins/Zenject/Source/Internal/MiscExtensions.cs"
+    },
+    "b90847f8da5fb2a4a9bdf577aa2b52e7": {
+      "md5": "cf420186680ec5cd6b2c73a5ed9e248e",
+      "path": "Assets/Plugins/Zenject/Source/Usage/IGuiRenderable.cs"
+    },
+    "80ff9e6d501d30d4a82639f4ae453712": {
+      "md5": "429c43f86b3a7ffe4fb7462d030ae898",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/Factory/Pooling/MemoryPoolInitialSizeBinder.cs"
+    },
+    "143387d13293ae64aafa2908ea74ec94": {
+      "md5": "996c85daad230c6dcc80d2f81c7d727a",
+      "path": "Assets/Plugins/Zenject/Source/Signals/Signal1.cs"
+    },
+    "b4b2e202af09d0444a0989ec8699b042": {
+      "md5": "cd795ab3adbdd6a11a6d157592bc47fc",
+      "path": "Assets/Plugins/Zenject/Source/Providers/Singleton/SubContainer/SubContainerSingletonProviderCreatorByNewPrefab.cs"
+    },
+    "952433523e6a6e445adc4ac7e2086e7d": {
+      "md5": "72c93a57380a5c41c407085bb72150cb",
+      "path": "Assets/Plugins/Zenject/Source/Util/ProfileBlock.cs"
+    },
+    "da8964661c7b6d54ca3c303423fa09a2": {
+      "md5": "f1108e06bdbd9378983a5780330a4af3",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/GameObject/NameTransformConditionCopyNonLazyBinder.cs"
+    },
+    "2005ce29739317b48bcc3c06695da848": {
+      "md5": "16d608e9c22495b170503a817e23caff",
+      "path": "Assets/Plugins/Zenject/Source/Injection/InjectContext.cs"
+    },
+    "6cf2e5d7a11cf6c418960ff59949b5fa": {
+      "md5": "d4cc6971dbf4b0dd05e40d113a5b2f28",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/CopyNonLazyBinder.cs"
+    },
+    "1cdc9466c4b6c7f4f81675e8f546672f": {
+      "md5": "faf03d91f66c9a729d33add059b32f9c",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryFromBinderBase.cs"
+    },
+    "293ee607ccfdf63458a26d0e6bdebaaa": {
+      "md5": "57653ee4dcb6ecf2784a2d73a6345579",
+      "path": "Assets/Plugins/Zenject/Source/Providers/PrefabCreators/PrefabInstantiatorCached.cs"
+    },
+    "f229e1c9f405e5e4c9067ba7bfbb6f0b": {
+      "md5": "601bf6448225bc5d87cef14b2e778ee5",
+      "path": "Assets/Plugins/Zenject/Source/Providers/Singleton/SubContainer/SubContainerSingletonProviderCreatorByNewPrefabResource.cs"
+    },
+    "62c651ad6c58c1140ac224dc6284fa5e": {
+      "md5": "667cb961531366e09a2723d00cbfba9a",
+      "path": "Assets/Plugins/Zenject/Source/Factories/IFactory.cs"
+    },
+    "d2392181aaeca434cb15e2719d7567d6": {
+      "md5": "d20aa974e20b8895c4748b34ae72608d",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Finalizers/ScopableBindingFinalizer.cs"
+    },
+    "81f656f8be3ab824f81de7580bdde054": {
+      "md5": "fac07c6b63931d9aca8a12b08b635f32",
+      "path": "Assets/Plugins/Zenject/Source/Signals/SignalExtensions.cs"
+    },
+    "cad41a65c3c0b0f46a659557b2d716e0": {
+      "md5": "6188f6e976a93ad246b9af66f6e7d451",
+      "path": "Assets/Plugins/Zenject/Source/Util/ExecutionOrderInstaller.cs"
+    },
+    "438b6366f2f1221448e9a71e09ac0329": {
+      "md5": "09472d5ce65926877fe3a45a31612e0f",
+      "path": "Assets/Plugins/Zenject/Source/Providers/IProvider.cs"
+    },
+    "e0677429ccaaa09409da71fb2138bf12": {
+      "md5": "9c0f9376a0d0fa4776218c63dff8ac61",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Finalizers/SubContainerPrefabResourceBindingFinalizer.cs"
+    },
+    "668a9feb769954340b35901a0c829397": {
+      "md5": "8a50e075307557bedbda1b7705a36902",
+      "path": "Assets/Plugins/Zenject/Source/Install/Contexts/StaticContext.cs"
+    },
+    "ce3e2ecdd52e4db469d9bc497ff5e5f5": {
+      "md5": "9e080516068cca57e1b79913685aff83",
+      "path": "Assets/Plugins/Zenject/Source/Providers/GetterProvider.cs"
+    },
+    "d8ec0a54fda132541951795c50af8433": {
+      "md5": "c99f33c7adb3e1e8e04121ef54a1df90",
+      "path": "Assets/Plugins/Zenject/Source/Signals/Signal2.cs"
+    },
+    "45b8fa051fd4fb84b94f6384e6dbe092": {
+      "md5": "d9a3e05aa88bdd94ef04d22cd449ce40",
+      "path": "Assets/Plugins/Zenject/Source/Providers/PrefabCreators/IPrefabInstantiator.cs"
+    },
+    "846dc8b98a861b44782334efc90109bb": {
+      "md5": "5b4c7b9456a2b3037c4f7972f1c9ef9f",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/GameObject/TransformConditionCopyNonLazyBinder.cs"
+    },
+    "e5c1dc3cfb102bb408bcc71e7b4431b2": {
+      "md5": "24cd432f9b77483735d223c787e274e3",
+      "path": "Assets/Plugins/Zenject/Source/Providers/Singleton/SingletonImplIds.cs"
+    },
+    "e62fabfe4695e4a439003c1c1fd5d008": {
+      "md5": "6ea01a6c2736dba11a9e2dc274d71a6a",
+      "path": "Assets/Plugins/Zenject/Source/Runtime/DisposableManager.cs"
+    },
+    "86d57d44320c4e44d83238355141c01f": {
+      "md5": "8555096253c343d45142ef5556ae79e3",
+      "path": "Assets/Plugins/Zenject/Source/Signals/InstanceMethodSignalHandler.cs"
+    },
+    "e5e379837534881428e8911b6beffa00": {
+      "md5": "0c936cff20d9e70504d9b37a61c45c08",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Finalizers/BindFinalizerWrapper.cs"
+    },
+    "4eb3a4d5d01c55748b43f48a1da3c7b6": {
+      "md5": "51de1e3049e4fba8715de4d61121a241",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryFromBinder/FactoryFromBinder3.cs"
+    },
+    "3628433a045792f4297abd34b5a1a34c": {
+      "md5": "89e84e2882602906aa408cb274797a87",
+      "path": "Assets/Plugins/Zenject/Source/Providers/PrefabProviders/PrefabProvider.cs"
+    },
+    "a36f88760754c1c498ab3270dfb88b72": {
+      "md5": "14d6202bd0b43e0336bd6906f8048a81",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryFromBinder/FactoryFromBinder2.cs"
+    },
+    "a0ad621394f2ce847898d9a9fac228a2": {
+      "md5": "3570233c71fd3e03258fddf45abea2c5",
+      "path": "Assets/Plugins/Zenject/Source/Usage/ZenjectAllowDuringValidationAttribute.cs"
+    },
+    "1251d518904c9574897614d756f76756": {
+      "md5": "f7632291b3304567af4da901614569a7",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/ConcreteBinders/ConcreteIdBinderNonGeneric.cs"
+    },
+    "dc472af8f2bc5bf498b8e85704193aac": {
+      "md5": "af0769698e5da2f49ba095787e4d4b82",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryToChoiceBinder/FactoryToChoiceBinder5.cs"
+    },
+    "a4e6589720da476459dc6dd71624b071": {
+      "md5": "edb9238df5537e556731e8b5e690cfd8",
+      "path": "Assets/Plugins/Zenject/Source/Install/Contexts/ProjectContext.cs"
+    },
+    "c109e2a5fd72a004e83beae958fa888a": {
+      "md5": "c591488ae869d805a92aace506c665ac",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryToChoiceIdBinder/FactoryToChoiceIdBinder2.cs"
+    },
+    "39782cb4430018d459f5707002dff73c": {
+      "md5": "1e2a01c5f0af283887239cbccc6bac3e",
+      "path": "Assets/Plugins/Zenject/Source/Factories/PrefabFactory.cs"
+    },
+    "69869bf3bdd7a9c43adcc329067b64e4": {
+      "md5": "810a4de0a794c205224b6ec0f81113ec",
+      "path": "Assets/Plugins/Zenject/Source/Util/ZenjectTypeInfo.cs"
+    },
+    "d908209e11d07744483c5fea3b406f33": {
+      "md5": "770b794f910b3255514ac41e6e13264c",
+      "path": "Assets/Plugins/Zenject/Source/Install/InstallerBase.cs"
+    },
+    "5f32bdc495dbe204caab18bace045515": {
+      "md5": "a3d426a6563d2bfa7767a6e578ffe612",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryFromBinder/SubContainerBinder/FactorySubContainerBinder2.cs"
+    },
+    "93b2efa9f2e65104c93f7ec30bca9205": {
+      "md5": "c8f99ac1f240ebab4ad95f67ebea5180",
+      "path": "Assets/Plugins/Zenject/Source/Providers/Singleton/Prefab/PrefabSingletonProviderCreator.cs"
+    },
+    "05d17b3e7f09bc44f8be86e01642ee8d": {
+      "md5": "847b90f3fc747490b2d43e0bc7c0aedf",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/Conventions/ConventionSelectTypesBinder.cs"
+    },
+    "5753f1f4d468e7649b017dee98c6301d": {
+      "md5": "9250d25168846c25a15a5c78782d9b6f",
+      "path": "Assets/Plugins/Zenject/Source/Providers/ScriptableObjectResourceProvider.cs"
+    },
+    "84c5bc61bc03f17468a1953edb7dcd42": {
+      "md5": "c2adc5d60c22e7e2c46855ef7d3d8a07",
+      "path": "Assets/Plugins/Zenject/Source/Providers/TransientProvider.cs"
+    },
+    "65a9d43edcbe33640989f12f980de5d1": {
+      "md5": "4d02be34ae2d87c217683130650c15c1",
+      "path": "Assets/Plugins/Zenject/Source/Install/IInstaller.cs"
+    },
+    "f4e6abc79259aa54db4d9a7b46581029": {
+      "md5": "e3dec139cdadd36bff015fbd0c334940",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/GameObject/NameTransformScopeConditionCopyNonLazyBinder.cs"
+    },
+    "1c47912ae4e51a84d92f1acf689997c8": {
+      "md5": "c0270e9804e4356163cf8b77566ca899",
+      "path": "Assets/Plugins/Zenject/Source/Runtime/Kernels/DefaultGameObjectKernel.cs"
+    },
+    "b04935d23b1499e42a242d63a3fe248b": {
+      "md5": "f98e4dd39e720629b0dabe3021991592",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/ConcreteBinders/ConcreteBinderNonGeneric.cs"
+    },
+    "5af74c801595f2d458350c212ddd5b52": {
+      "md5": "7418e7c258a58bf04b44fd5377a526e2",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/GameObject/NameTransformScopeArgConditionCopyNonLazyBinder.cs"
+    },
+    "6fa6b8670ec5932489c4102d45d987ff": {
+      "md5": "700bda151328d38edb72bb91ee498731",
+      "path": "Assets/Plugins/Zenject/Source/Providers/PrefabProviders/PrefabProviderResource.cs"
+    },
+    "ed7323e8fdd8c26438c6485f2060dad0": {
+      "md5": "412b8f9a8e1e33d08734aa8fb1acf328",
+      "path": "Assets/Plugins/Zenject/Source/Install/Contexts/SceneDecoratorContext.cs"
+    },
+    "4e52124c243adb44aaf26eed3a8413c8": {
+      "md5": "cedad7a3219e10e7f674a0e1c8a002b7",
+      "path": "Assets/Plugins/Zenject/Source/Runtime/TaskUpdater.cs"
+    },
+    "278c72df466e8b049bc7ce6feb535cb1": {
+      "md5": "95cdfed3a4d23b963191590a6340d030",
+      "path": "Assets/Plugins/Zenject/Source/Providers/ProviderUtil.cs"
+    },
+    "cbcf35bc1ea4f2a4d83302077a281916": {
+      "md5": "b8433b4c63c8bc5343c9e8c7178766dd",
+      "path": "Assets/Plugins/Zenject/Source/Signals/StaticMethodWithInstanceSignalHandler.cs"
+    },
+    "0ed09ac17d1c3ca44b8064ce22ebba27": {
+      "md5": "fc0971a5253f0fb5db681420844913b9",
+      "path": "Assets/Plugins/Zenject/Source/Runtime/Kernels/MonoKernel.cs"
+    },
+    "a4ac05057081e184085cfa2a3d672d35": {
+      "md5": "a52c84b15adb390d0cb0f6ae48fda0f7",
+      "path": "Assets/Plugins/Zenject/Source/Providers/Singleton/Prefab/PrefabResourceSingletonProviderCreator.cs"
+    },
+    "07cb33e44f032a840a46b8b699927d0a": {
+      "md5": "863862da40887bdb483a49e8609041df",
+      "path": "Assets/Plugins/Zenject/Source/Providers/SubContainerCreators/SubContainerCreatorByNewPrefabWithParams.cs"
+    },
+    "e69b2b4566e331e44a9f92e4e309816a": {
+      "md5": "9d580239fee2e30188377cdb8cf0d589",
+      "path": "Assets/Plugins/Zenject/Source/Binding/BindInfo/FactoryBindInfo.cs"
+    },
+    "be92b263b562bc94790fd2af8d30ee45": {
+      "md5": "9780481cc9ddefedf6ba3a3dfc99a417",
+      "path": "Assets/Plugins/Zenject/Source/Signals/StaticMethodSignalHandler.cs"
+    },
+    "7359cd850f5a96d47ad4606d14dac326": {
+      "md5": "b8c7b220e3fe12cf11c1b617e3dc5604",
+      "path": "Assets/Plugins/Zenject/Source/Util/TypeAnalyzer.cs"
+    },
+    "22a7321581383d141b4c11983b83e67b": {
+      "md5": "e015e411931a92c89971fdc6892f260c",
+      "path": "Assets/Plugins/Zenject/Source/Providers/MethodProvider.cs"
+    },
+    "e54c591a4175efc4688be675528600c1": {
+      "md5": "feba437502c65b21fb30600b44d33830",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/FromBinders/FromBinderNonGeneric.cs"
+    },
+    "98442c60b29ff084981af3b2f2c02375": {
+      "md5": "afbf5ba81f7effae9818adc1b7261ed9",
+      "path": "Assets/Plugins/Zenject/Source/Usage/InjectAttribute.cs"
+    },
+    "a002e9dce4e8af54d948529d6beda84b": {
+      "md5": "32bef940fdf4ae9c13ab52eafe0b6be6",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryFromBinder/SubContainerBinder/FactorySubContainerBinderWithParams.cs"
+    },
+    "dca817e151a0eac4480344dcf838b949": {
+      "md5": "7c50ff73094599520fea1e95f234e9c0",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryToChoiceIdBinder/FactoryToChoiceIdBinder0.cs"
+    },
+    "da4cb0f689a9b074aa3d2f2da8b38015": {
+      "md5": "5d28b8546208330f8343f8bf9fdbf433",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Finalizers/SubContainerPrefabBindingFinalizer.cs"
+    },
+    "05e8238358230bf4e9cbb692280d28f1": {
+      "md5": "bcf478426a7f05b0f75f3da367202a3a",
+      "path": "Assets/Plugins/Zenject/Source/Main/BindingId.cs"
+    },
+    "901200be3b8d1cc40876aa50a03103b8": {
+      "md5": "0b95cfb8d992a29024c7e970fc82291e",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryFromBinder/FactoryFromBinder5.cs"
+    },
+    "3040e09a43bdb9842a7d713a68b7bb46": {
+      "md5": "3e05d70ebc744f0adb67ee0eece0df6a",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/ScopeNonLazyBinder.cs"
+    },
+    "1d3d5b3bdf966444099f2dfdf3a313fd": {
+      "md5": "5c615e62d2dbb53f7eb917285df1c51c",
+      "path": "Assets/Plugins/Zenject/Source/Providers/InstanceProvider.cs"
+    },
+    "3c65f57f681813347a60ce759489885b": {
+      "md5": "76c1e3b64ec7df2e0895323eeb55e0ed",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/IdScopeConditionCopyNonLazyBinder.cs"
+    },
+    "27e4cef6504bc0243b1893240d22b72d": {
+      "md5": "793540621dc4bf99b0d83f1224a2198e",
+      "path": "Assets/Plugins/Zenject/Source/Validation/ValidationMarker.cs"
+    },
+    "f8f4db421196f5849b2139200fdea1a3": {
+      "md5": "c497f3387c52d804bb8b0c65985d4e43",
+      "path": "Assets/Plugins/Zenject/Source/Providers/GameObjectProviders/EmptyGameObjectProvider.cs"
+    },
+    "f1933dc35532fca48849ce65a3a31760": {
+      "md5": "b0b4a0031c30e307a47fc3613020a6e5",
+      "path": "Assets/Plugins/Zenject/Source/Signals/SignalBinder.cs"
+    },
+    "136cacfad8fe5404aad05dda29a777e4": {
+      "md5": "23ff02b52546e5e68ac0188e59e2e241",
+      "path": "Assets/Plugins/Zenject/Source/Util/UnityUtil.cs"
+    },
+    "00b9d7602aaf02748aa93779bbf29799": {
+      "md5": "1209553d3960f1849a90f83f442f8300",
+      "path": "Assets/Plugins/Zenject/Source/Install/ScriptableObjectInstaller.cs"
+    },
+    "d776b7406750d7f4c816cd0c03e4e254": {
+      "md5": "a38652aaaa16d35e87e45cd184f38df3",
+      "path": "Assets/Plugins/Zenject/Source/Providers/GameObjectProviders/PrefabGameObjectProvider.cs"
+    },
+    "0166d8ff8d905b048b2448179e1f5d11": {
+      "md5": "7c3b8dadbe725bad854383900c0d37a2",
+      "path": "Assets/Plugins/Zenject/Source/Install/ZenjectBinding.cs"
+    },
+    "1334aecb808e6c145a993cb441f43bdb": {
+      "md5": "78662a8caa3f240701db483d62f40329",
+      "path": "Assets/Plugins/Zenject/Source/Factories/Pooling/MonoMemoryPool.cs"
+    },
+    "e6e16beb21a2f0d4db901700c6ed3099": {
+      "md5": "b15647962de4bbcf190e4516a301e97e",
+      "path": "Assets/Plugins/Zenject/Source/Providers/CachedProvider.cs"
+    },
+    "b6e8cb801211c484a872c4ed493bb30a": {
+      "md5": "62f523b38f9e4fd28742838c50774a7c",
+      "path": "Assets/Plugins/Zenject/Source/Signals/ISignalHandler.cs"
+    },
+    "401238e59d733ab48aaea1a582241b29": {
+      "md5": "6cd7f4506dec40a685dbf069fda62aaf",
+      "path": "Assets/Plugins/Zenject/Source/Util/ZenUtilInternal.cs"
+    },
+    "20b01a4cfa147764a9e52134e2a32bb4": {
+      "md5": "a23105e5e21150e7cd49a4801d39c54c",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryToChoiceIdBinder/FactoryToChoiceIdBinder5.cs"
+    },
+    "524b1ea47ab401847b0e00b3c854a4ce": {
+      "md5": "b5828782954690e80cd7101088ac0afc",
+      "path": "Assets/Plugins/Zenject/Source/Signals/Signal3.cs"
+    },
+    "06d16f2f9107265428d41710db4cbb14": {
+      "md5": "84de6fc8ef41003725c02ebc896c5bd3",
+      "path": "Assets/Plugins/Zenject/Source/Editor/UnityInspectorListEditor.cs"
+    },
+    "2968c9f42475ea146aec3ced9cbd99ad": {
+      "md5": "b83841cfee0ca9d83a54bffe790339ab",
+      "path": "Assets/Plugins/Zenject/Source/Internal/Assert.cs"
+    },
+    "83273a08f84aa9a48b37fe0b1bae0958": {
+      "md5": "4f90a1e2d7e61cf723027af75988e7b8",
+      "path": "Assets/Plugins/Zenject/Source/Providers/SubContainerCreators/ISubContainerCreator.cs"
+    },
+    "2697c251f47f2bc40b32922c5a796f65": {
+      "md5": "e73d019624939920aaf1d321edb89538",
+      "path": "Assets/Plugins/Zenject/Source/Internal/TypeExtensions.cs"
+    },
+    "5229c122d45b5634ebd4b9bccee749ac": {
+      "md5": "337b91923c6f9c9721b274d8e7d6a08d",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/Conventions/ConventionAssemblySelectionBinder.cs"
+    },
+    "724ff9f6c80e0b044b7db58730dc6075": {
+      "md5": "fa338b1bfe87d5b2dc3404de85d59520",
+      "path": "Assets/Plugins/Zenject/Source/Install/MonoInstaller.cs"
+    },
+    "d818f8110e5b31d4eb27001e5c5b3eb9": {
+      "md5": "68f83706147add921938a4cf01d10e06",
+      "path": "Assets/Plugins/Zenject/Source/Providers/ComponentProviders/AddToGameObjectComponentProviders/AddToGameObjectComponentProviderBase.cs"
+    },
+    "c04ae1d59f53f514f96e284ba43122f7": {
+      "md5": "6931b469b90c283d3427f7bc358a3ce1",
+      "path": "Assets/Plugins/Zenject/Source/Editor/Editors/SceneContextEditor.cs"
+    },
+    "29f47f2a06418244e8fcbe27db1a0eea": {
+      "md5": "e0542db45ca2611c59dd8ba3b2b80151",
+      "path": "Assets/Plugins/Zenject/Source/Editor/ObjectGraphVisualizer.cs"
+    },
+    "59c18bddf62adaf46b1de0564bf02388": {
+      "md5": "67a2820c85a161cdd3d001e84cf2dee0",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryToChoiceBinder/FactoryToChoiceBinder2.cs"
+    },
+    "d0c24b30b6678884db62f15947ec943c": {
+      "md5": "068965ca7089925aba1cdb2cacdb1b13",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Finalizers/IBindingFinalizer.cs"
+    },
+    "3b0521d85aeb9ee479dcb29ef4d88547": {
+      "md5": "680c0502121759083dd15106192bfb21",
+      "path": "Assets/Plugins/Zenject/Source/Providers/ComponentProviders/AddToGameObjectComponentProviders/AddToCurrentGameObjectComponentProvider.cs"
+    },
+    "5247e7eae706d3e46a62942adc901f0a": {
+      "md5": "36b4e8b2bf67fe2e560c59cd14db537f",
+      "path": "Assets/Plugins/Zenject/Source/Providers/Singleton/SingletonId.cs"
+    },
+    "b851ccfb909f66c4587d694f6e37b279": {
+      "md5": "7cca48a6055e5fa959a43f56d30f718a",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Finalizers/PrefabResourceBindingFinalizer.cs"
+    },
+    "387c12fd770c48e49bcefe4c0723d511": {
+      "md5": "3f04e6c3cffff2b4a86fa58a1013be30",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryFromBinder/SubContainerBinder/FactorySubContainerBinderBase.cs"
+    },
+    "e67ee9caa78de914a9c727a607c3d8c0": {
+      "md5": "ccbe4f711bba2f8b7d7d4dc54d8f9284",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryFromBinder/FactoryFromBinder4.cs"
+    },
+    "ca017daa801443448aab4d9a37783b0d": {
+      "md5": "986e27f57808b30cf78c03e5eb7b1539",
+      "path": "Assets/Plugins/Zenject/Source/Providers/Singleton/SingletonTypes.cs"
+    },
+    "be0cf56827265f44bbdeba09329d66ab": {
+      "md5": "b07d5cf49628f2c6176faf31b296cb34",
+      "path": "Assets/Plugins/Zenject/Source/Install/Contexts/Context.cs"
+    },
+    "fc3e9c89606ca52458403153ad0d9b3e": {
+      "md5": "0bee08c9030c75c600ce50d6bc406a67",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/Conventions/ConventionFilterTypesBinder.cs"
+    },
+    "13b8377ec575a1a44a1028ee324ba17a": {
+      "md5": "1c4340036723c367e9ac43f2d253d873",
+      "path": "Assets/Plugins/Zenject/Source/Factories/Pooling/IMemoryPool.cs"
+    },
+    "d6ee197c5aed3b048b76b82a9be3d094": {
+      "md5": "5292f6f000970171b9ed32c6fd1e3c5b",
+      "path": "Assets/Plugins/Zenject/Source/Runtime/GuiRenderer.cs"
+    },
+    "e1c56dfb59b7617489380785a5ae27f6": {
+      "md5": "384695af4c5cddf7d36ba2ca075820b9",
+      "path": "Assets/Plugins/Zenject/Source/Signals/Signal4.cs"
+    },
+    "322248bc158e67d4fa16b727e73a40a2": {
+      "md5": "c97e887febfe6d07f6b4c1b6c005a2b5",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/GameObject/TransformScopeConditionCopyNonLazyBinder.cs"
+    },
+    "6e1085d337c03dd42a1d5493c11d9d23": {
+      "md5": "0f1893e190d585c709e0da6b12c70a05",
+      "path": "Assets/Plugins/Zenject/Source/Providers/ComponentProviders/AddToGameObjectComponentProviders/AddToNewGameObjectComponentProvider.cs"
+    },
+    "ba9d727a5d866fb46a576ab76012b727": {
+      "md5": "236e813ba216c093033654bc53da783e",
+      "path": "Assets/Plugins/Zenject/Source/Factories/Pooling/MemoryPoolBase.cs"
+    },
+    "be02341a689ce654ab7160ce4eb5ed0e": {
+      "md5": "84ca918d6ef63ce0fd4cb5a0e8d9e56c",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryToChoiceIdBinder/FactoryToChoiceIdBinder3.cs"
+    },
+    "a07f8d298d010b34ca694d0d124b66d2": {
+      "md5": "47a75c1ad8d2caad7a4dbef90d5a8f11",
+      "path": "Assets/Plugins/Zenject/Source/Runtime/AnimatorInterfaces/AnimatorMoveHandlerManager.cs"
+    },
+    "fabf0ea555da0ed44adeaadfc3bc02b5": {
+      "md5": "4ee03080e28ff3d8b1c05f9f811610b2",
+      "path": "Assets/Plugins/Zenject/Source/Signals/SignalHandlerBase.cs"
+    },
+    "2f9f4a0ef011f8846b17c8dc23e69b11": {
+      "md5": "895200b26d328c91265427fcc2afa168",
+      "path": "Assets/Plugins/Zenject/Source/Testing/ValidateOnlyAttribute.cs"
+    },
+    "aa33e6042ce404a4f839a3c27a697a04": {
+      "md5": "d2acf25a6cb66271ace390672ebf555f",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/GameObject/NameTransformScopeArgNonLazyBinder.cs"
+    },
+    "02bed9738f9c4323ac05524465473dee": {
+      "md5": "1a3215c8a76c647f5069c0f8eb083fe2",
+      "path": "Assets/Plugins/Zenject/Source/Editor/Editors/RunnableContextEditor.cs"
+    },
+    "71c55280804e3bd48816a3244114d1f0": {
+      "md5": "5037ee716ef301078616554a42bce221",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/ArgNonLazyBinder.cs"
+    },
+    "62ec581e8d820a74797d1dabf19d85c3": {
+      "md5": "2317c46a6e6395f1bf0907430cd8718d",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/ConcreteBinders/ConcreteBinderGeneric.cs"
+    },
+    "bc25e694ccedbed4893d980ee61d1c8f": {
+      "md5": "07cb452091d8b9013264bf650fa84c56",
+      "path": "Assets/Plugins/Zenject/Source/Editor/EditorWindow/ZenjectEditorWindow.cs"
+    },
+    "0f4eba870ab01f44a8f09044fa2dfcf7": {
+      "md5": "86de8b9e16cbd0a2fd447ff7c0d95ba0",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/GameObject/TransformScopeArgNonLazyBinder.cs"
+    },
+    "f16c8e5eed02ac8478e8c236c1677db3": {
+      "md5": "ba7eefbdd90c5a341872b4880c34a6f1",
+      "path": "Assets/Plugins/Zenject/Source/Providers/ResourceProvider.cs"
+    },
+    "17fc7cad09fe4e94f939551c85abf6d9": {
+      "md5": "45b435a136030ff8c3d363e9810c2601",
+      "path": "Assets/Plugins/Zenject/Source/Providers/SubContainerCreators/SubContainerCreatorByNewPrefab.cs"
+    },
+    "a1ae50515b6b4f145b4a03a7d2aefc10": {
+      "md5": "a6290d4706f9a43f5ffc516f1e1323a7",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/GameObject/TransformScopeArgConditionCopyNonLazyBinder.cs"
+    },
+    "b119fe818c4bae143ab8f9a4f2a1b0fd": {
+      "md5": "83136847b128ddaed8793bdf388a86da",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryFromBinder/SubContainerBinder/FactorySubContainerBinder1.cs"
+    },
+    "deaa9a3ee9e42a8448bba948495b9225": {
+      "md5": "bd2f8bef4b842b8549735c9e47ac20c9",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Finalizers/SingleProviderBindingFinalizer.cs"
+    },
+    "3f8798fbf64bca945a7be04615c08c4f": {
+      "md5": "a5391834f2d9ce15a4627d00d6a56e9b",
+      "path": "Assets/Plugins/Zenject/Source/Binding/BindInfo/MemoryPoolBindInfo.cs"
+    },
+    "d45338750ad0b4f4b90ed09091927b46": {
+      "md5": "da5871c4dc72d9ac81195d67229ee0b8",
+      "path": "Assets/Plugins/Zenject/Source/Editor/ZenMenuItems.cs"
+    },
+    "358cdf402ef00ff40ac81f3bbe7018f0": {
+      "md5": "0f50adfe1ba4f9849e8290b65b296f47",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Binders/ConcreteBinders/ConcreteIdBinderGeneric.cs"
+    },
+    "9dad9781195b1c14bb61b2f15f9a49a7": {
+      "md5": "5a3e29ef0916bc4e6dcdc46b4f88d353",
+      "path": "Assets/Plugins/Zenject/Source/Binding/Finalizers/SubContainerInstallerBindingFinalizer.cs"
+    },
+    "c7bd2a03033e83a4c9dab4d27166b412": {
+      "md5": "cc31f986d1f9601fcaee6534fbdd7739",
+      "path": "Assets/Plugins/Zenject/Source/Main/LazyInstanceInjector.cs"
+    },
+    "d2b9289e80031104295e10acf518d75a": {
+      "md5": "322075d3e5db1dccaed8e8e8c6782e59",
+      "path": "Assets/Plugins/Zenject/Source/Editor/Editors/SceneDecoratorContextEditor.cs"
+    },
+    "aff38aaefd39d0d41a92c2707718d15c": {
+      "md5": "4574112574b53c5e30f2609cb735550a",
+      "path": "Assets/Plugins/Zenject/Source/Runtime/Kernels/SceneKernel.cs"
+    },
+    "2fa54cf0e36bd194faa8f877e9f699a4": {
+      "md5": "195895ad8adc73d812d0aa4bf9c18b4e",
+      "path": "Assets/Plugins/Zenject/Source/Runtime/TickableManager.cs"
+    },
+    "0e5a590d4406d6e46ba319046057db53": {
+      "md5": "b938572b9f7b6b1599aeaa12f4e7d80c",
+      "path": "Assets/Plugins/Zenject/Source/Providers/MethodProviderMultiple.cs"
+    },
+    "f4cbf7c6883911843ae4a64582422dda": {
+      "md5": "32e8f4bda8dde52b85b32f87deee6b37",
+      "path": "Assets/Plugins/Zenject/Source/Runtime/AnimatorInterfaces/AnimatorInstaller.cs"
+    }
+  },
+  "pack": {
+    "id": "modesttree:zenject:5.4.0",
+    "roots": [
+      "Plugins/Zenject/Source/**",
+      "Plugins/Zenject/LICENSE.*",
+      "Plugins/Zenject/version.*"
+    ],
+    "dependencies": []
+  }
+}

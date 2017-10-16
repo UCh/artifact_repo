@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ivy-module version="2.0">
+  <info organisation="modesttree" module="zenject" revision="5.4.0" status="integration" publication="20171016233046"/>
+  <configurations/>
+  <publications>
+    <artifact name="zenject" type="zip" ext="zip"/>
+    <artifact name="zenject" type="manifest" ext="manifest"/>
+  </publications>
+  <dependencies/>
+</ivy-module>
