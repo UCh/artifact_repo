@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ivy-module version="2.0">
+  <info organisation="com.unity" module="unitytesttools.unittest" revision="1.5.9" status="integration" publication="20171018123609"/>
+  <configurations/>
+  <publications>
+    <artifact name="unitytesttools.unittest" type="zip" ext="zip"/>
+    <artifact name="unitytesttools.unittest" type="manifest" ext="manifest"/>
+  </publications>
+  <dependencies/>
+</ivy-module>
