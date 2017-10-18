@@ -1,7 +1,7 @@
 {
   "files": {},
   "pack": {
-    "id": "com.unity:unitytesttools.unittest:1.5.9",
+    "id": "unity:unittesttools:1.5.9",
     "roots": [
       "UnityTestTools/UnitTesting*"
     ],
