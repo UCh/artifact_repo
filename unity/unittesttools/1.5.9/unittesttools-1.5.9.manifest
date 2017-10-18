@@ -1,9 +1,14 @@
 {
-  "files": {},
+  "files": {
+    "3c5e1afc6e0d68849ae6639aff58cfc7": {
+      "md5": "3e09a611496bd3f56c1cbb62dad9c510",
+      "path": "Assets/UnityTestTools/UnitTesting/Editor/NSubstitute/NSubstitute.dll"
+    }
+  },
   "pack": {
     "id": "unity:unittesttools:1.5.9",
     "roots": [
-      "UnityTestTools/UnitTesting**"
+      "UnityTestTools/UnitTesting/**"
     ],
     "dependencies": []
   }
