@@ -3,7 +3,7 @@
   "pack": {
     "id": "unity:unittesttools:1.5.9",
     "roots": [
-      "UnityTestTools/UnitTesting*"
+      "UnityTestTools/UnitTesting**"
     ],
     "dependencies": []
   }

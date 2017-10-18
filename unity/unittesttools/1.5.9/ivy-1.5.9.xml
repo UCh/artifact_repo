@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0">
-  <info organisation="unity" module="unittesttools" revision="1.5.9" status="integration" publication="20171018124140"/>
+  <info organisation="unity" module="unittesttools" revision="1.5.9" status="integration" publication="20171018124456"/>
   <configurations/>
   <publications>
     <artifact name="unittesttools" type="zip" ext="zip"/>
