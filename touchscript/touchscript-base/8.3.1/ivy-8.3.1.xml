@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ivy-module version="2.0">
+  <info organisation="touchscript" module="touchscript-base" revision="8.3.1" status="integration" publication="20171022180928"/>
+  <configurations/>
+  <publications>
+    <artifact name="touchscript-base" type="zip" ext="zip"/>
+    <artifact name="touchscript-base" type="manifest" ext="manifest"/>
+  </publications>
+  <dependencies/>
+</ivy-module>

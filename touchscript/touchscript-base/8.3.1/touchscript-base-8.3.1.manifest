@@ -1,0 +1,427 @@
+{
+  "files": {
+    "4c21776f7e73345948c045618b3fad6f": {
+      "md5": "ac4ed16be63d4bc08ff6044133cdbffb",
+      "path": "Assets/TouchScript/Scripts/Layers/CameraLayer.cs"
+    },
+    "62efb084f73cc4f86b954d1a5109e015": {
+      "md5": "2abccb8b936ef9a9dbf2c49071bc4908",
+      "path": "Assets/TouchScript/Scripts/Utils/Debug/DebugHelper.cs"
+    },
+    "9a563581326e54933b760cdbbec1aa76": {
+      "md5": "f8890f64905cb2529e16d0e73f144293",
+      "path": "Assets/TouchScript/Scripts/InputSources/IInputSource.cs"
+    },
+    "a02b4354287c54e8b8a68cb3380b4266": {
+      "md5": "c928ba7bdb672464f97e79457af41f2c",
+      "path": "Assets/TouchScript/Scripts/Gestures/Clustered/ClusteredPinnedTransformGesture.cs"
+    },
+    "f3dba9dd8cd8c43b491b010ac13c04cf": {
+      "md5": "75136fbeda8777e5fc1c508e72ed40a0",
+      "path": "Assets/TouchScript/Editor/TouchManagerEditor.cs"
+    },
+    "d390813d043714f6a84f7cf00f65f612": {
+      "md5": "6415378bafdeed5a949912496337b2b6",
+      "path": "Assets/TouchScript/Editor/Gestures/FlickGestureEditor.cs"
+    },
+    "a2c791a2415314ea3b9f44592097a9d1": {
+      "md5": "42aa97b34a8c31d71fe87346eb8faee6",
+      "path": "Assets/TouchScript/Scripts/Layers/CameraLayer2D.cs"
+    },
+    "7cb960f8e83f447beb42da7d064d77e2": {
+      "md5": "9f50c9ef75397e087b74a276f3559ac8",
+      "path": "Assets/TouchScript/Scripts/Behaviors/Visualizer/TouchProxy.cs"
+    },
+    "7c765df6b51e243c189e129d8edc4a7b": {
+      "md5": "4be9cb6c6b20de5a525f2a883f2a321f",
+      "path": "Assets/TouchScript/Editor/Layers/UILayerEditor.cs"
+    },
+    "4bc7bfe2c28cf4040a48b710a0efe97e": {
+      "md5": "0883afee1fb202527bbd4977a20cf1fa",
+      "path": "Assets/TouchScript/Scripts/IGestureManager.cs"
+    },
+    "41044f63d9ffc4867a0cab8a7a893dbe": {
+      "md5": "c3c7fc7fcfe7bfa954394f767f3d8f00",
+      "path": "Assets/TouchScript/Editor/Utils/GUIElements.cs"
+    },
+    "4230502e1973f4c9e9ef6767dcc8c602": {
+      "md5": "ed0571fea33d5554aaafa4ae958abeb2",
+      "path": "Assets/TouchScript/Prefabs/Touch Hit.prefab"
+    },
+    "b056765f5d95e45ef9a3c9befaabbdec": {
+      "md5": "85c22b7ca1d3a8e4e9bb49cda6ffcaff",
+      "path": "Assets/TouchScript/Scripts/Gestures/Base/TransformGestureBase.cs"
+    },
+    "e276ccba4f7314d9988af19f9b3a611b": {
+      "md5": "486c71f50063aac4185fb20ead14c97c",
+      "path": "Assets/TouchScript/Scripts/InputSources/StandardInput.cs"
+    },
+    "0e3fee45ad636474f888650fb0e2df1b": {
+      "md5": "463c9f132f1354458dda5b3ccfe12cf1",
+      "path": "Assets/TouchScript/Scripts/InputSources/ICoordinatesRemapper.cs"
+    },
+    "65c8d97aff62a473e888feae3bec54cd": {
+      "md5": "639e778f1d3d80eca43c5161ac68616e",
+      "path": "Assets/TouchScript/Scripts/Gestures/LongPressGesture.cs"
+    },
+    "195a64932cddb476d903543a759d786e": {
+      "md5": "aa7501ba0f09f300773edcf9a83b5fbf",
+      "path": "Assets/TouchScript/Editor/Gestures/PressGestureEditor.cs"
+    },
+    "4abf92e08a63c4a26805b5917d5e0c64": {
+      "md5": "c93b27eaaa9dae4aa20f979547b75bc6",
+      "path": "Assets/TouchScript/Scripts/Devices/Display/IDisplayDevice.cs"
+    },
+    "342ab20b42be247d3b6df312e1a3607d": {
+      "md5": "97fa7a23c5b813411e6c4512ae303b50",
+      "path": "Assets/TouchScript/Editor/Layers/FullscreenLayerEditor.cs"
+    },
+    "797eed971a75647609ca044e7924beb7": {
+      "md5": "423909968cd6711cbaf129ebcd5f9065",
+      "path": "Assets/TouchScript/Scripts/Behaviors/TouchScriptInputModule.cs"
+    },
+    "8fe4d6210b46c447c85e1c99fb0552ee": {
+      "md5": "715140667bdfd376a830e2ccb5ca5653",
+      "path": "Assets/TouchScript/Editor/InputSources/StandardInputEditor.cs"
+    },
+    "36027325105764b7b978c0b8e8059eaf": {
+      "md5": "17f332cde9c9bf7ca9f95cc7f51c8e03",
+      "path": "Assets/TouchScript/Editor/Gestures/LongPressGestureEditor.cs"
+    },
+    "ea50697f98d711e4cab6011e03728770": {
+      "md5": "3ab83fb6ee053c1faa96b031553cc116",
+      "path": "Assets/TouchScript/Devices/Display/TVs/FullHD TV 55.asset"
+    },
+    "d721edb9d6d8748549ec079a57b79df0": {
+      "md5": "da6d665d8b92f5ad2fbfd2ce8e8c808c",
+      "path": "Assets/TouchScript/Editor/Gestures/PinnedTransformGestureEditor.cs"
+    },
+    "f9faaaf19ee9b4ab9b3f86c9c1832bce": {
+      "md5": "34367881a3fef87748f644e32d365d34",
+      "path": "Assets/TouchScript/Scripts/Utils/TransformUtils.cs"
+    },
+    "e373603907e744048b209e3b7bc5e268": {
+      "md5": "b88c0ffe7dfb2f83ee8d644e8807e91d",
+      "path": "Assets/TouchScript/Editor/Utils/PropertyDrawers/TagsDrawer.cs"
+    },
+    "74ae431eff8434b0897d3f7f1cff4311": {
+      "md5": "71c23b866793c15a39bb93a4c46283ec",
+      "path": "Assets/TouchScript/Scripts/Gestures/ScreenTransformGesture.cs"
+    },
+    "2675434635a8a4b3dbdd6aef444c8ebe": {
+      "md5": "0989d76cfade02795647386a679be5b4",
+      "path": "Assets/TouchScript/Editor/InputSources/MouseInputEditor.cs"
+    },
+    "1ba67d04e07d3491989322c6414feaf3": {
+      "md5": "2b81bc4cee5fd31dd833c73536aba241",
+      "path": "Assets/TouchScript/Scripts/Gestures/FlickGesture.cs"
+    },
+    "c7c3e58101ca34da39242009583cad02": {
+      "md5": "ceb14bc33c61c6ec20e0b8a79eaf0816",
+      "path": "Assets/TouchScript/Scripts/Tags.cs"
+    },
+    "d2d72c9d6bd55482db3ece50442c7353": {
+      "md5": "344db8894251400a611f53ea2243ad18",
+      "path": "Assets/TouchScript/Scripts/Utils/Debug/GLDebug.cs"
+    },
+    "0f6a32a9da8914f8c88280d791911330": {
+      "md5": "870aed4a72260ece0af4b4a97be33fb5",
+      "path": "Assets/TouchScript/Scripts/Utils/ProjectionUtils.cs"
+    },
+    "bb8f15d86c04a46e197326e7d89fe6a2": {
+      "md5": "5c3a705c96d6ecd1f0b04e1f60dacbed",
+      "path": "Assets/TouchScript/Scripts/Utils/ObjectPool.cs"
+    },
+    "c0dc5781cae4a6348b42ea6b818a3f9c": {
+      "md5": "b5b081a62d5959ec7889a20cb7690ebe",
+      "path": "Assets/TouchScript/Prefabs/Touch Visualizer.prefab"
+    },
+    "ef91bdfc155504626bc95d7a9fd08679": {
+      "md5": "67dd98ca8c9712bed1f2e5624fb73f62",
+      "path": "Assets/TouchScript/Scripts/InputSources/InputHandlers/TouchHandler.cs"
+    },
+    "26a72f9b3b6704180978dbce08cf231e": {
+      "md5": "7762d40a1951de603647730e03ed4397",
+      "path": "Assets/TouchScript/Scripts/Layers/UILayer.cs"
+    },
+    "0978f5226454c474bad885d688e7a254": {
+      "md5": "2044fc31f3a7d5943f32d808898c8a82",
+      "path": "Assets/TouchScript/Scripts/Utils/TimedSequence.cs"
+    },
+    "fd4c8249b12754612b72123e5bbada96": {
+      "md5": "72a5f302a2de3ba4eb123118930ab8ca",
+      "path": "Assets/TouchScript/Editor/InputSources/InputSourceEditor.cs"
+    },
+    "500ae466c1b0f443c88d9a615bb03d0a": {
+      "md5": "9768f0a2f02bfa90d4a6ded027ac494f",
+      "path": "Assets/TouchScript/Scripts/Utils/Attributes/NullToggleAttribute.cs"
+    },
+    "8ab2229694277419eac9469988b1f138": {
+      "md5": "ddcfd6dd50026d1b8422a3558006a71c",
+      "path": "Assets/TouchScript/Shaders/DebugMultiplyDepthTest.shader"
+    },
+    "978a486d8ecf8437cbb87e8534908895": {
+      "md5": "3c1fa960615001d7d3144c82120b2a08",
+      "path": "Assets/TouchScript/Scripts/Behaviors/Transformer.cs"
+    },
+    "5a7c6923c3da84d40a5d07d86c4f29a8": {
+      "md5": "8871a70ba2f4906c4c07db6d8099697f",
+      "path": "Assets/TouchScript/Scripts/Gestures/ITransformGesture.cs"
+    },
+    "5b3684fecdc114e83972296c74ab9d72": {
+      "md5": "babff87e949b83ac45bf329fae0587c1",
+      "path": "Assets/TouchScript/Scripts/Gestures/Gesture.cs"
+    },
+    "e47dcd113beb42843965ea5aa86272dc": {
+      "md5": "314e727d6636447d8e6af6588bd00e74",
+      "path": "Assets/TouchScript/Devices/Display/Unknown Device.asset"
+    },
+    "141e75b9b7edb42df80a22a14f03ae4b": {
+      "md5": "5896a1aa340232147f55e7d778f99dda",
+      "path": "Assets/TouchScript/Scripts/Gestures/ReleaseGesture.cs"
+    },
+    "fead2d18a248a4d27b0bbe07cbf3035d": {
+      "md5": "65548f5fbac8f2552bef0d3cb3cdf784",
+      "path": "Assets/TouchScript/Scripts/Layers/CameraLayerBase.cs"
+    },
+    "4e9a4d4a935394bc19057f2f4a1b04a2": {
+      "md5": "29ae09e855054c72255b59a3557ab5cc",
+      "path": "Assets/TouchScript/Scripts/Layers/ILayerDelegate.cs"
+    },
+    "87273644198f34358acfa852108c1405": {
+      "md5": "c2d949a995872cac0e57f13c303efc2c",
+      "path": "Assets/TouchScript/Scripts/Utils/Geom/TwoD.cs"
+    },
+    "5fa254dc19f5e4c3eac6722085c53e2c": {
+      "md5": "a6b3f4a943a265394dd6724acc85d18f",
+      "path": "Assets/TouchScript/Shaders/DebugMultiplyNoDepthTest.shader"
+    },
+    "5629e2a1e89ae402f81a9453febcbdd9": {
+      "md5": "d0acb9da97ec1c0ec207c5545982fa8f",
+      "path": "Assets/TouchScript/Editor/Gestures/TapGestureEditor.cs"
+    },
+    "16651960676f1435284a3165c7170f10": {
+      "md5": "20a1638e3a267d227b535fec022ef433",
+      "path": "Assets/TouchScript/Scripts/Utils/EventHandlerExtensions.cs"
+    },
+    "8e601f7600f944e56ac4d76e112fd154": {
+      "md5": "81259b69435a1186418340341b4a62a4",
+      "path": "Assets/TouchScript/Scripts/GestureManager.cs"
+    },
+    "a3a11ca7be7f64a2c9019ae54cf6ef7e": {
+      "md5": "ccdcfa0da949f533b76dfa3b1d292230",
+      "path": "Assets/TouchScript/Scripts/Hit/TouchHit.cs"
+    },
+    "edf2423ed57eb42bc93a8e0e6f68737c": {
+      "md5": "a937756bab4f9039e8fb09cf0f25b7d8",
+      "path": "Assets/TouchScript/Scripts/InputSources/InputSource.cs"
+    },
+    "75324aa372886435faa21a4145210f8e": {
+      "md5": "6d57fb5b8027921d53007d734c7265e1",
+      "path": "Assets/TouchScript/Scripts/Behaviors/Visualizer/TouchVisualizer.cs"
+    },
+    "1c01a98d4f23442519f09fd70e86d158": {
+      "md5": "1fc1f6fa804cc27a3fda66e40b91de7d",
+      "path": "Assets/TouchScript/Scripts/Gestures/IGestureDelegate.cs"
+    },
+    "d86d3f0426b2f4d0fbf2464eb80bb82d": {
+      "md5": "5d4ef41a9014dcb9d07a573b41ab58ac",
+      "path": "Assets/TouchScript/Scripts/TouchManagerInstance.cs"
+    },
+    "38e07bff8743d4ee38bf724a7a2b4cbb": {
+      "md5": "03e8a6d8984e45e70d61750cf6d766fb",
+      "path": "Assets/TouchScript/Scripts/Gestures/PinnedTransformGesture.cs"
+    },
+    "f6ddc10419e484026a3460a6c9518387": {
+      "md5": "88a48339c139b6d2aa79f790c5f415bc",
+      "path": "Assets/TouchScript/Editor/Utils/PropertyDrawers/NullToggleDrawer.cs"
+    },
+    "fa6c5418ec5d043f19db8de147aba5ad": {
+      "md5": "4e6c864efdf6e67680acca0fd01af6a0",
+      "path": "Assets/TouchScript/Scripts/Layers/TouchLayer.cs"
+    },
+    "0896e97c8d8484717ae2c80c241157d9": {
+      "md5": "accbdd6c36b28beed46092bd38d5fb19",
+      "path": "Assets/TouchScript/Scripts/Devices/Display/GenericDisplayDevice.cs"
+    },
+    "0a69204e9cef74e54ae7e617cc267b6e": {
+      "md5": "9a4e6364ee6b08fe380e69ffa1ece473",
+      "path": "Assets/TouchScript/Scripts/GestureManagerInstance.cs"
+    },
+    "04c17a8fa37b750408c1aaa5a0fb31af": {
+      "md5": "f336b2a3aff0fed3f8e5ad3fb83c9ba8",
+      "path": "Assets/TouchScript/Devices/Display/TVs/FullHD TV 50.asset"
+    },
+    "72b38de9ff1ca4059868438f858d35a9": {
+      "md5": "c692980cae37e05e4d84d23df0e221b1",
+      "path": "Assets/TouchScript/Scripts/Gestures/Clustered/ClusteredTransformGesture.cs"
+    },
+    "0bfadf6252f6646569883eef35215aa5": {
+      "md5": "8d5d6f8c91e86d873c3d53acb00a3b38",
+      "path": "Assets/TouchScript/Scripts/IDebuggable.cs"
+    },
+    "0721b72d19eff46caa81f3098505c837": {
+      "md5": "ff627e6468a5dbc80cf3ff6113f16944",
+      "path": "Assets/TouchScript/Scripts/Utils/TouchUtils.cs"
+    },
+    "ae4469bb607a64842a4d00aee505e8ec": {
+      "md5": "d353b41649e4332c0ad8abd1dec7be35",
+      "path": "Assets/TouchScript/Editor/Gestures/GestureEditor.cs"
+    },
+    "2e0b42362ebf8465e8b9e3dc274cc60a": {
+      "md5": "73cad71ec11ace4c0a15e0087a59dde7",
+      "path": "Assets/TouchScript/Scripts/Gestures/Base/PinnedTransformGestureBase.cs"
+    },
+    "2bc291805b9384c48a7b1776bff51829": {
+      "md5": "5d2068bb129dd9673cf9c0a6dabdc59f",
+      "path": "Assets/TouchScript/Devices/Display/TVs/FullHD TV 42.asset"
+    },
+    "7a878a6ff128243dfb1d89ca0273f059": {
+      "md5": "49f59210d1ca4951bb43e4347d2feed1",
+      "path": "Assets/TouchScript/Scripts/Gestures/TapGesture.cs"
+    },
+    "17fdf02507df2433595874500f6eef4c": {
+      "md5": "2dc9a37939b98c8f7a82560bf9bdd887",
+      "path": "Assets/TouchScript/Scripts/InputSources/MouseInput.cs"
+    },
+    "3486b6985d7504c0c9996ab3d9ea1ed7": {
+      "md5": "ac17005316a44b72a1cd3a4c8f205dab",
+      "path": "Assets/TouchScript/Shaders/DebugNoDepthTest.shader"
+    },
+    "f5c75ed8c6bed0f489d9003aa739aff7": {
+      "md5": "7269755e04d53fdccb28e8c3328afbf0",
+      "path": "Assets/TouchScript/Textures/Touch.png"
+    },
+    "35c2dca9c55c34126a66ce1252fbad55": {
+      "md5": "f5b5fc3a546cabddd59ec948fb7a84f1",
+      "path": "Assets/TouchScript/Scripts/Gestures/Clustered/ClusteredScreenTransformGesture.cs"
+    },
+    "62e76638558b342029565ee320e70d0a": {
+      "md5": "4631b7d005aff19ce46c1d17e694b87f",
+      "path": "Assets/TouchScript/Scripts/Hit/HitTest.cs"
+    },
+    "d1e3a7a4a02e347bca24205e78d75ba4": {
+      "md5": "3d279f8586324369c8d9149ce8a78438",
+      "path": "Assets/TouchScript/license.txt"
+    },
+    "3522d1ca5a49945dca1a128d730d36d6": {
+      "md5": "50015a1b06b3712a837b37672656f266",
+      "path": "Assets/TouchScript/Scripts/Utils/ClusterUtils.cs"
+    },
+    "c34dc6093a49a481db532b87b45132a4": {
+      "md5": "fa49d91ddc7b70a49da7f87fe15fd6d1",
+      "path": "Assets/TouchScript/Scripts/Gestures/UI/UIGesture.cs"
+    },
+    "3baa703e27afd464b99782fc4b86ba62": {
+      "md5": "13e297b12b99560320eb4a5440161e85",
+      "path": "Assets/TouchScript/Scripts/TouchPoint.cs"
+    },
+    "64858b188cac74031ad199cbcc9df40b": {
+      "md5": "3acf9760fe8480e8869ead26d94eeaf7",
+      "path": "Assets/TouchScript/Scripts/Utils/Attributes/ToggleLeftAttribute.cs"
+    },
+    "3bb766ec5aebe4332b86a7b9b50eb01d": {
+      "md5": "c3cc86d9b6f007502d0ce25f57273125",
+      "path": "Assets/TouchScript/Scripts/Devices/Display/DisplayDevice.cs"
+    },
+    "11ea9930ecb674732bee27116520fad8": {
+      "md5": "491e6894b90b7c0757c0272b75d6837a",
+      "path": "Assets/TouchScript/Scripts/Gestures/TransformGesture.cs"
+    },
+    "3fd90a8856e1a49eba25728d5aaac9f2": {
+      "md5": "33af35ed6f2ed4de5c9c01391a22800c",
+      "path": "Assets/TouchScript/Scripts/Gestures/MetaGesture.cs"
+    },
+    "8fa81a2cd8d004ae49a1960cd7fa1862": {
+      "md5": "759953eeb28c34d5f1c3a67c5bda1232",
+      "path": "Assets/TouchScript/Editor/InputSources/MobileInputEditor.cs"
+    },
+    "bc7fd33c57d694994b0ab9f33fcdcbea": {
+      "md5": "47681c93a71228a666faf481c60350ff",
+      "path": "Assets/TouchScript/Scripts/Layers/FullscreenLayer.cs"
+    },
+    "c7e1387ffe85a4cdda62de924d7ab0be": {
+      "md5": "94d29ead419fcd361e49a6eff2f4ab5c",
+      "path": "Assets/TouchScript/Editor/Gestures/ReleaseGestureEditor.cs"
+    },
+    "3340d3e5c29c545d9b943193e9ac5b3e": {
+      "md5": "9a0f0e15e0d2bf6407923c69d4745699",
+      "path": "Assets/TouchScript/Editor/Utils/PropertyDrawers/ToggleLeftDrawer.cs"
+    },
+    "c6be551879cd14d739b0188844ef2c60": {
+      "md5": "9d871ed865dfb9dadb3f83179cdaab1b",
+      "path": "Assets/TouchScript/Scripts/Gestures/PressGesture.cs"
+    },
+    "6abaac731b6e14e959374e05265230da": {
+      "md5": "8380addb4419f291f5cb51c2d8135259",
+      "path": "Assets/TouchScript/Scripts/Hit/Untouchable.cs"
+    },
+    "33cbf52dea18b40649d742b0c6f96d3c": {
+      "md5": "44b2ef309f211cab7d065d6f70c671dd",
+      "path": "Assets/TouchScript/Scripts/InputSources/MobileInput.cs"
+    },
+    "8ec7e5142e5574b22a7463ed89e960e5": {
+      "md5": "4584f01b172ca39a4bcc53d90e9f1752",
+      "path": "Assets/TouchScript/Scripts/ITouchManager.cs"
+    },
+    "64be3da0e2cc145c39d170e598c5875a": {
+      "md5": "8dfe30336b5569d9bad08729136103c8",
+      "path": "Assets/TouchScript/Shaders/DebugDepthTest.shader"
+    },
+    "77945c600a4314a6bb5c7cc758b42194": {
+      "md5": "4ef7540cb9e7b4439a584cea3100627b",
+      "path": "Assets/TouchScript/Editor/Behaviors/Visualizer/TouchVisualizerEditor.cs"
+    },
+    "c0727eb6299e14d74accd8ae22d26fec": {
+      "md5": "831879e606ed2be16a3e24051de08c3b",
+      "path": "Assets/TouchScript/Scripts/DebuggableMonoBehaviour.cs"
+    },
+    "cfa9277d376b648fb9d19bd1007de00e": {
+      "md5": "93bc8712850d01de01fdbf093404946b",
+      "path": "Assets/TouchScript/Scripts/InputSources/InputHandlers/MouseHandler.cs"
+    },
+    "7078e7b2bcc744db9a94273d4be974a8": {
+      "md5": "42f1129f339de198ed5a0f1d4987d589",
+      "path": "Assets/TouchScript/Editor/Gestures/ScreenTransformGestureEditor.cs"
+    },
+    "6395072af0bed4c5c89a6e0481c61e63": {
+      "md5": "2cdc38a28d2cd6b9c5886ac6b660a4df",
+      "path": "Assets/TouchScript/Editor/Gestures/TransformGestureEditor.cs"
+    },
+    "63c78cda8eb1f4f188460aa97fc7e207": {
+      "md5": "376c00d6177bc25da50832e1f2eaa61a",
+      "path": "Assets/TouchScript/Editor/Layers/CameraLayer2DEditor.cs"
+    },
+    "5b6085d6e46444dc7a6c9e673016b565": {
+      "md5": "6c2761d37d635390d0251ba61a321073",
+      "path": "Assets/TouchScript/Scripts/Clusters/Clusters.cs"
+    },
+    "fa5665b41c4584d4d869286b2875b036": {
+      "md5": "36c2865bba674beaaa1b245b98a6cba0",
+      "path": "Assets/TouchScript/Scripts/InputSources/InputHandlers/WindowsTouchHandlers.cs"
+    },
+    "0a7d71b067ae746e6b8c6f6adb9a455a": {
+      "md5": "f2c15b7f98f2149d67a61d484c713250",
+      "path": "Assets/TouchScript/Editor/Gestures/Base/TransformGestureBaseEditor.cs"
+    },
+    "72ec715c90bb1435e8ba040343f8573d": {
+      "md5": "76fb02d5e5819a64315b2ce42e2ec08f",
+      "path": "Assets/TouchScript/Scripts/Layers/ProjectionParams.cs"
+    },
+    "9c7f8fc728f794dc691b2a87036a14fe": {
+      "md5": "4ea2efb8479a87275a8f8b1c503b9e06",
+      "path": "Assets/TouchScript/Editor/Gestures/Base/PinnedTransformGestureBaseEditor.cs"
+    },
+    "0dd4c394fe06f4ea49e03aaa5e7a8190": {
+      "md5": "1dbf345811b3591d4c1d1fbce5410ccf",
+      "path": "Assets/TouchScript/Scripts/TouchManager.cs"
+    }
+  },
+  "pack": {
+    "id": "touchscript:touchscript-base:8.3.1",
+    "roots": [
+      "TouchScript/**"
+    ],
+    "dependencies": []
+  }
+}
