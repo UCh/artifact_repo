@@ -1,11 +1,124 @@
 {
-  "files": {},
+  "files": {
+    "ccc962c3ea9744f4489869be1206a105": {
+      "md5": "2fea41eccbe676a1767b2b1d9f7a3ef4",
+      "path": "Assets/Plugins/UChECS/Scripts/uchlab/ecs/BaseEntitySet.cs"
+    },
+    "8b8d43352874f44c097e42d9b80f0227": {
+      "md5": "568286cdbba9c9d4b1b7f479ce053d43",
+      "path": "Assets/Plugins/UChECS/Scripts/uchlab/ecs/EntityRepository.cs"
+    },
+    "1c0cefabb5c454414885bb76d2042d9b": {
+      "md5": "4df93bbc7336905d51fb4dcb5d33fb1e",
+      "path": "Assets/Plugins/UChECS/Scripts/Editor/RegisterUnityComponentsInspector.cs"
+    },
+    "4d4f661f25e37478e824a59859f7916c": {
+      "md5": "2971bfe611fb60798dc34678d4dc046a",
+      "path": "Assets/Plugins/UChECS/Scripts/uchlab/ecs/DeltaSecondProvider.cs"
+    },
+    "5f5d7106e9a114210b7fd3ceb2fb126f": {
+      "md5": "67ebcad66bc7cfb902796534774adf6d",
+      "path": "Assets/Plugins/UChECS/Scripts/uchlab/ecs/zenject/RegisterUnityComponents.cs"
+    },
+    "202eed597ce0f46dc98701b8e7ae4c19": {
+      "md5": "5dc24013f803688b71df72ed94b9ff3a",
+      "path": "Assets/Plugins/UChECS/Prefabs/Installers/ArrayBenchmarkInstaller.prefab"
+    },
+    "7c0b04202c4164d7f97158810e8c0cd8": {
+      "md5": "734d913ad4278106c0682fb04ba855f2",
+      "path": "Assets/Plugins/UChECS/Scripts/uchlab/ecs/component/IRegistrableComponent.cs"
+    },
+    "eebb92047c2784fd5951d86f6669c717": {
+      "md5": "7584e46f94fd32a722cda22312fdb39e",
+      "path": "Assets/Plugins/UChECS/Scripts/uchlab/benchmark/LogEntry.cs"
+    },
+    "56ecff1e204774176b79925362cf37e9": {
+      "md5": "098dfc5cc510fe5650790390af31151c",
+      "path": "Assets/Plugins/UChECS/Scripts/uchlab/ecs/component/ComponentGroupFactory.cs"
+    },
+    "f42a97466be2043cba802e69a68f4fbb": {
+      "md5": "8f6f7adf2cbf90f8a7b41da7c076556c",
+      "path": "Assets/Plugins/UChECS/Scripts/uchlab/ecs/zenject/RegisterComponentBehaviour.cs"
+    },
+    "26782cc2bcba2427e83b901dffbe7fe2": {
+      "md5": "2923890ecc450c2fa9cdfed4a0fecf5d",
+      "path": "Assets/Plugins/UChECS/Scripts/uchlab/ecs/processor/ITickableProcessor.cs"
+    },
+    "4641188e8fb3f43b5a7e46c00d05ef47": {
+      "md5": "fde20d72a89a531bcf0781380a42e2b0",
+      "path": "Assets/Plugins/UChECS/Scripts/uchlab/ecs/processor/TickableEntitySetProcessor.cs"
+    },
+    "55d792a5b4fb64507a0c213e4437edd3": {
+      "md5": "5196567860321220f34c184c84e8c480",
+      "path": "Assets/Plugins/UChECS/Scripts/uchlab/ecs/unity/LabelGenericAttribute.cs"
+    },
+    "b12dda0b7246a4b2a9b3a4748ecb38d6": {
+      "md5": "bf88d81f7555cc075054d130ef9770c9",
+      "path": "Assets/Plugins/UChECS/Scripts/uchlab/ecs/processor/EntitySetProcessor.cs"
+    },
+    "ec9d8ba9cac554d0497c5af2cba390ca": {
+      "md5": "cb7377607a12b6ecd644cfb92bc5504f",
+      "path": "Assets/Plugins/UChECS/Scripts/uchlab/benchmark/TestScript.cs"
+    },
+    "c422cf489e4c84fd182011db811c27be": {
+      "md5": "8128e6b68e911004bb81d18f15004ec8",
+      "path": "Assets/Plugins/UChECS/Scripts/uchlab/ecs/EntitySet.cs"
+    },
+    "713bb123ac6144962a4fa89e2c34f672": {
+      "md5": "7741c2e02db3e7bf0bfd09caa3da00ff",
+      "path": "Assets/Plugins/UChECS/Scripts/uchlab/ecs/component/ComponentSet.cs"
+    },
+    "27a5c928ba21c4934892bebf7f9e52f5": {
+      "md5": "4e8d2289caf64235908e80b6946502bf",
+      "path": "Assets/Plugins/UChECS/Scripts/uchlab/ecs/component/BaseRegistrableComponent.cs"
+    },
+    "4b04c93ae71d941b5ac3eb74b4e3ae81": {
+      "md5": "0467f5a0ee3961454ec36aa7685fa963",
+      "path": "Assets/Plugins/UChECS/Scripts/uchlab/ecs/IEntityRepository.cs"
+    },
+    "ad692bb158d6d4a2884f1699ce3c1aff": {
+      "md5": "3eff125c9ca8dbae35a0ba2949b74818",
+      "path": "Assets/Plugins/UChECS/Scripts/uchlab/ecs/statemachine/StateMachineComponent.cs"
+    },
+    "fc8709089fdfd4df3a895880960db338": {
+      "md5": "1a2e949ffc24b943bb68fa66440ec941",
+      "path": "Assets/Plugins/UChECS/Scripts/uchlab/ecs/Entity.cs"
+    },
+    "0daa506c4cbfc46f79cac1457df91d2b": {
+      "md5": "b95a0a6add8eca88f2cf6df63257e925",
+      "path": "Assets/Plugins/UChECS/Scripts/Editor/LabelGenericDrawer.cs"
+    },
+    "48294d5462b144579a859eb10ebec21d": {
+      "md5": "03466034800af45c85d5458b8d78cca3",
+      "path": "Assets/Plugins/UChECS/Scripts/uchlab/ecs/zenject/AutoRegistrableComponentBehaviour.cs"
+    },
+    "a322edc9925b64960a60bc2fa9e1930d": {
+      "md5": "ef064e3dfa196d830a45187f3c6d1923",
+      "path": "Assets/Plugins/UChECS/Scripts/uchlab/ecs/IEntity.cs"
+    },
+    "bb004cb82146449a19e96b2651f2e7f9": {
+      "md5": "306eed24b297de328129b75210e4477d",
+      "path": "Assets/Plugins/UChECS/Scripts/uchlab/ecs/zenject/ECSInstaller.cs"
+    },
+    "6814c93af4f6248539658eb3a94948fc": {
+      "md5": "cbae0a8eac563b0fa851bc0258d5d5aa",
+      "path": "Assets/Plugins/UChECS/Scripts/uchlab/ecs/component/ComponentSignal.cs"
+    },
+    "6e0827926b64d42e18a6b432145e3442": {
+      "md5": "9a3a1792df2710356234064d4b8dedef",
+      "path": "Assets/Plugins/UChECS/Prefabs/Installers/ECSInstaller.prefab"
+    },
+    "a4426fbd9df2045f6a4c68aac4b875dd": {
+      "md5": "be994fda507b921f643c05658f3e2841",
+      "path": "Assets/Plugins/UChECS/Scripts/uchlab/ecs/zenject/ProcessorTicker.cs"
+    }
+  },
   "pack": {
     "id": "uchlab:uchecs:0.1.0",
     "roots": [
       "Plugins/UChECS/*",
-      "Plugins/UChECS/Scripts**",
-      "Plugins/UChECS/Prefabs**"
+      "Plugins/UChECS/Scripts/**",
+      "Plugins/UChECS/Prefabs/**"
     ],
     "dependencies": [
       "modesttree:zenject:5.4.0"

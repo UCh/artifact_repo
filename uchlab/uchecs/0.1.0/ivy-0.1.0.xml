@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0">
-  <info organisation="uchlab" module="uchecs" revision="0.1.0" status="integration" publication="20171022153254"/>
+  <info organisation="uchlab" module="uchecs" revision="0.1.0" status="integration" publication="20171022161320"/>
   <configurations/>
   <publications>
     <artifact name="uchecs" type="zip" ext="zip"/>
