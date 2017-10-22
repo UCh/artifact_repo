@@ -6,7 +6,7 @@
     }
   },
   "pack": {
-    "id": "unity:unittesttools:1.5.9",
+    "id": "com.unity:unittesttools:1.5.9",
     "roots": [
       "UnityTestTools/UnitTesting/**"
     ],
